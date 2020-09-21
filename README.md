@@ -3,4 +3,4 @@ Long story short, the goal of the project is the development of a multi-platform
 While searching for treasures the user will encounter different objects to interact with and will be ultimately rewarded with ingame-currency for completing a treasure hunt called „Quest“.</br>
 Furthermore the project is meant to be a proof of concept for the author and basic groundwork for developing more complicated GPS apps.</br>
 For a detailed description see: [Link](https://github.com/Moimus/TreasureHunterApp/blob/master/Docs/Treasure%20Hunter%20App%20Design%20Document.pdf)
-<img src="https://github.com/Moimus/TreasureHunterApp/blob/master/Docs/DesignDocCover.png"></img>
+<img src="https://github.com/Moimus/TreasureHunterApp/blob/master/Docs/DesignDocCover.png" style="width:640px;height:auto;"></img>
